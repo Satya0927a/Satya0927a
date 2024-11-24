@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satya0927a
+- 👋 Hi, I’m @Satyabratapadhiary
 - 👀 I’m interested in hard stuff anything and everything 
 - 🌱 I’m currently learning Cpp,python, a lit bit of webdevelopment and web frameworks
 - Even if i dont know how to do something i will figure it out.
