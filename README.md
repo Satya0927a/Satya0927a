@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Satyabratapadhiary
 - 👀 I’m interested in hard stuff anything and everything 
-- 🌱 I’m currently learning Cpp,python, a lit bit of webdevelopment and web frameworks
-- Even if i dont know how to do something i will figure it out.
+- 🌱 I’m currently learning Web Development and frameworks
+- Iam an excellent learner, and if i dont know how to do something i will figure it out.
 
 <!---
 Satya0927a/Satya0927a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
